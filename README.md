@@ -1,6 +1,6 @@
 # Moneyball Project: An Analysis of Efficiency in Baseball Teams' Spending
 
-[Live Notebook](https://www.jasdeepahluwalia.com/files/notebooks/moneyball)
+View the live notebook [here](https://www.jasdeepahluwalia.com/files/notebooks/moneyball)
 
 In this project, we examine Major League Baseball data to understand the efficiency of teams in terms of their spending and the resulting wins. Our particular interest lies in the Oakland A's strategy, popularly known as "Moneyball", which fundamentally redefined player valuation to exploit market inefficiencies.
 
